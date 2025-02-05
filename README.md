@@ -9,7 +9,7 @@
 This project analyzes the release dates, trends, and patterns of Netflix movies and TV shows using SQL. The dataset contains details like titles, genres, release years, ratings, and more. The goal is to derive insights into content trends, popular release years, and the distribution of movies vs. TV shows over time.  
 
 ## 📂 Dataset  
-- The dataset is sourced from [Netflix Movies and TV Shows dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows).  
+- The dataset is sourced from [Netflix Movies and TV Shows dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows?resource=download).  
 - It includes attributes like:  
   - **Title** (Movie/TV Show name)  
   - **Type** (Movie or TV Show)  
