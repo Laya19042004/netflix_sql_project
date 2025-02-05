@@ -22,3 +22,6 @@
 6)Evaluate content ratings to understand audience targeting and age distribution.
 
 ## Dataset
+The data for this project is sourced from the Kaggle Datasert:
+
+--> Dataset Link("C:\Users\banda\Downloads\archive\netflix_titles.csv")
