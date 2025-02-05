@@ -1,3 +1,3 @@
 # Netflix Movies and TV shows Date Analysis using SQL
 
-![Netflix Logo]()
+![Netflix Logo](netflix logo.jpg)
